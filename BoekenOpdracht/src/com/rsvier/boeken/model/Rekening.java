@@ -15,6 +15,11 @@ public class Rekening {
     private Locatie mLocatie;
     private double mSaldo;
     
+    /**
+     * Testtttttttttttttt
+     * 
+     */
+    
     public Rekening (int rekeningNummer, String naam, Locatie locatie, double saldo) {
 	mRekeningNummer = rekeningNummer;
 	mNaam = naam;
